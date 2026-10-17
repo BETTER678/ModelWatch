@@ -467,6 +467,3 @@ project. Until then, do not assume that others have permission to reuse or
 redistribute the project's code or bundled assets.
 
 ---
-
-**ModelWatch — Monitor the signals. Investigate the changes. Evaluate before
-promoting.**
