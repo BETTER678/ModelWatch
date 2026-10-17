@@ -5,3 +5,15 @@ __pycache__/
 .mlflow/
 mlruns/
 .ipynb_checkpoints/
+data/lendingclub/accepted_loans.csv
+data/lendingclub/prepared/
+data/news/News_Category_Dataset_v3.json
+data/news/prepared/
+data/llm/databricks-dolly-15k.jsonl
+data/llm/prepared/
+models/lendingclub/*.joblib
+tracking/lendingclub/*.json
+tracking/lendingclub/*.jsonl
+tracking/news/
+tracking/llm/
+tracking/all_layers_runs.jsonl
